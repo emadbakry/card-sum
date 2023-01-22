@@ -5,7 +5,9 @@
 
 
 
-[Demo](https://emadbakry.github.io/cardsummary/)
+[Watch Demo](https://emadbakry.github.io/cardsummary/)
+
+[My twitter](https://twitter.com/Emad_code)
 
 More challenges at:
 [Frontend Mentor](https://www.frontendmentor.io)
