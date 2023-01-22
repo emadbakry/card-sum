@@ -1,9 +1,11 @@
-# Frontend Mentor - Order summary card
-
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+# From Frontend Mentor - Order summary card
 
 
+![Design preview for the Order summary card coding challenge](./design/mobile-design.jpg)
 
-Thanks for checking out this front-end coding challenge.
 
+
+[Demo](https://emadbakry.github.io/cardsummary/)
+
+More challenges at:
 [Frontend Mentor](https://www.frontendmentor.io)
